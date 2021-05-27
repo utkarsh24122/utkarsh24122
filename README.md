@@ -7,7 +7,7 @@
 - 👨‍🔧 Web Application Penetration Tester
 - 🐱‍👤 Bug Bounty Hunter
 - 💻 NCIIPC Contributor
-- 🐼 Valid Bug Submissions in Mastercard and PUBG
+- 🐼 Valid (P2) Bug Submissions in Mastercard and PUBG
 - 😋 Pentesting Automation tools (Bash and Python)
 
 ### <h2> $ echo "$Languages" </h2> ⌨
