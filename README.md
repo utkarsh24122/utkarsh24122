@@ -51,7 +51,9 @@ I have written a few writeups of some of the intersting vulnerabiities that I ha
 
 
 
+
 .
+
 
 
 
@@ -63,6 +65,6 @@ I have written a few writeups of some of the intersting vulnerabiities that I ha
 
 
 
- ![hacker_m1d9yfj5](https://user-images.githubusercontent.com/54320208/119717964-9f269b00-be84-11eb-8c12-35f96a09eb77.gif)       
+![hacker_m1d9yfj5](https://user-images.githubusercontent.com/54320208/119717964-9f269b00-be84-11eb-8c12-35f96a09eb77.gif)       
 
 **Me all day 😂**
