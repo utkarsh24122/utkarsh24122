@@ -1,6 +1,6 @@
 Hi There 👋 
 
-![tenor](https://user-images.githubusercontent.com/54320208/119721278-9a63e600-be88-11eb-8be0-6c1e6fe120f0.gif)
+![tenor](https://user-images.githubusercontent.com/54320208/119721278-9a63e600-be88-11eb-8be0-6c1e6fe120f0.gif) <a href="https://github.com/utkarsh24122/utkarsh24122"> <img align="top" src="https://github-readme-stats.vercel.app/api?username=utkarsh24122&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> <a href="https://github.com/utkarsh24122/utkarsh24122"> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="240" height="195" /> </a>
 
 <h2> $whoami </h2>
 
@@ -63,8 +63,6 @@ I have written a few writeups of some of the intersting vulnerabiities that I ha
 [instagram]: https://www.instagram.com/utkarsh_2.4/
 [linkedin]: https://www.linkedin.com/in/utkarsh24122/
 
-
-
 ![hacker_m1d9yfj5](https://user-images.githubusercontent.com/54320208/119717964-9f269b00-be84-11eb-8c12-35f96a09eb77.gif)       
 
-**Me all day 😂**
+*Me all day 😂
