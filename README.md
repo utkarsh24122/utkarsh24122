@@ -1,7 +1,6 @@
 Hi There 👋 
 
 ![tenor](https://user-images.githubusercontent.com/54320208/119721278-9a63e600-be88-11eb-8be0-6c1e6fe120f0.gif) <a href="https://github.com/utkarsh24122"> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=utkarsh24122&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 <h2> $whoami </h2>
 
