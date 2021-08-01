@@ -1,6 +1,7 @@
 Hi There 👋 
 
-![tenor](https://user-images.githubusercontent.com/54320208/119721278-9a63e600-be88-11eb-8be0-6c1e6fe120f0.gif) <a href="https://github.com/utkarsh24122/utkarsh24122"> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=utkarsh24122&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> 
+![tenor](https://user-images.githubusercontent.com/54320208/119721278-9a63e600-be88-11eb-8be0-6c1e6fe120f0.gif) <a href="https://github.com/utkarsh24122"> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=utkarsh24122&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> </a> 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 <h2> $whoami </h2>
 
@@ -12,8 +13,10 @@ Hi There 👋
 - 🐼 Valid (P2) Bug Submissions in PUBG, Mastercard and many more
 - 😋 Pentesting Automation tools (Bash and Python)
 
+
 ### <h2> Languages ⌨ </h2> 
 
+<img align="right" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="20" align="bottom" /> Python
 
@@ -23,7 +26,9 @@ Hi There 👋
 
 - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20" align="bottom" /> C++  
 
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" align="bottom" /> Java 
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" align="bottom" /> Java
+ 
+
 
 ### <h2> Projects & Tools 🛠 </h2>  
 
