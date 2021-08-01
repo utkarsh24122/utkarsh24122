@@ -55,27 +55,13 @@ I have written a few writeups of some of the intersting vulnerabiities that I ha
 [<img align="left" alt="utkarsh_2.4 | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 
-
-
-.
-
-
-
-
-
-
 [twitter]: https://twitter.com/utkarsh24122
 [instagram]: https://www.instagram.com/utkarsh_2.4/
 [linkedin]: https://www.linkedin.com/in/utkarsh24122/
 
 
-.
-
-.
-
-.
-
-
-<a href="https://github.com/utkarsh24122/utkarsh24122"> <img src="https://user-images.githubusercontent.com/54320208/119717964-9f269b00-be84-11eb-8c12-35f96a09eb77.gif" style="float:left" /> </a>   
-
-<p>*Me all day 😂</p>
+<br/><br/>
+<br/><br/>
+<p align="left">
+  <img  src="https://user-images.githubusercontent.com/54320208/119717964-9f269b00-be84-11eb-8c12-35f96a09eb77.gif">
+<p>*Me all day 👆😂</p>
