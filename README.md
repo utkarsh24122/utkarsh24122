@@ -15,7 +15,7 @@ Hi There 👋
 
 ### <h2> Languages ⌨ </h2> 
 
-<img align="right" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="right" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
 
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="20" align="bottom" /> Python
 
