@@ -13,7 +13,7 @@ Hi There 👋
 - 😋 Pentesting Automation tools (Bash and Python)
 
 
-# <h2> Languages ⌨ </h2> 
+### <h2> Languages ⌨ </h2> 
 
 <img align="right" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh24122&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
 
@@ -29,7 +29,7 @@ Hi There 👋
  
 
 <br/><br/>
-# <h2> Projects & Tools 🛠 </h2>  
+### <h2> Projects & Tools 🛠 </h2>  
 
 - [VulHunt](https://github.com/utkarsh24122/VulnHunt) : Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more. Check [Features](https://github.com/utkarsh24122/VulnHunt#features-)
 - [apknuke](https://github.com/utkarsh24122/apknuke) : Find vulnerabilities in Android Applications : Static Analysis : Template based Scanning. Check [Features](https://github.com/utkarsh24122/apknuke#features-)
@@ -37,7 +37,7 @@ Hi There 👋
 - [ApkAnalyzer](https://github.com/utkarsh24122/ApkAnalyzer) : Python script to find Vulnerabilities in Android Applications.
 - [Shufti](https://github.com/utkarsh24122/Shufti) : Latest Recon Workflow Framework. NOT "Just another recon tool" . Check [Features](https://github.com/utkarsh24122/Shufti#features)
 
-# <h2> Blog website 🌐</h2> 
+### <h2> Blog website 🌐</h2> 
 
 🌐 [utkarsh24122.gitbook.io](https://utkarsh24122.gitbook.io)
 
@@ -45,7 +45,7 @@ I have written a few writeups of some of the intersting vulnerabiities that I ha
 
 (It only contains few of the interesting ones so far )
 
-# <h2> Social Links 📞 </h2> 
+### <h2> Social Links 📞 </h2> 
 
 
 [<img align="left" alt="utkarsh24122 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
