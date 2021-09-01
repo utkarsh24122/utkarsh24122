@@ -19,7 +19,7 @@ Hi There 👋
 
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="20" align="bottom" /> Python
 
-- <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width="20" align="bottom" /> Shell/Bash Scripting  
+- <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width="20" align="bottom" /> Shell/Bash Scripting 
 
 - <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="20" align="bottom" /> C 
 
@@ -31,11 +31,14 @@ Hi There 👋
 <br/><br/>
 ### <h2> Projects & Tools 🛠 </h2>  
 
-- [VulHunt](https://github.com/utkarsh24122/VulnHunt) : Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more. Check [Features](https://github.com/utkarsh24122/VulnHunt#features-)
+- [VulnHunt](https://github.com/utkarsh24122/VulnHunt) : Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more. Check [Features](https://github.com/utkarsh24122/VulnHunt#features-)
 - [apknuke](https://github.com/utkarsh24122/apknuke) : Find vulnerabilities in Android Applications : Static Analysis : Template based Scanning. Check [Features](https://github.com/utkarsh24122/apknuke#features-)
 - [JSEnum](https://github.com/utkarsh24122/JSEnum) : Find Secrets, leaks, XSS & more in JavaScript files : Enumerate JavaScript Files of a target & Subdomains. Check [Features](https://github.com/utkarsh24122/JSEnum#features)
 - [ApkAnalyzer](https://github.com/utkarsh24122/ApkAnalyzer) : Python script to find Vulnerabilities in Android Applications.
 - [Shufti](https://github.com/utkarsh24122/Shufti) : Latest Recon Workflow Framework. NOT "Just another recon tool" . Check [Features](https://github.com/utkarsh24122/Shufti#features)
+- [get-api](https://github.com/utkarsh24122/get-api) : Enumerate API Endpoints of multiple targets for further exploitation. Check [Screenshots](https://github.com/utkarsh24122/get-api#screenshots-)
+- [s3extractor](https://github.com/utkarsh24122/s3extractor) : Finds s3 buckets of a target and its subdomains and checks s3 bucket permissions through aws cli.
+- [All Projects](https://github.com/utkarsh24122?tab=repositories)
 
 ### <h2> Blog website 🌐</h2> 
 
