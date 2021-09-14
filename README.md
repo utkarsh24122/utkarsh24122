@@ -28,7 +28,6 @@ Hi There 👋
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" align="bottom" /> Java
  
 
-<br/><br/>
 ### <h2> Projects & Tools 🛠 </h2>  
 
 - [VulnHunt](https://github.com/utkarsh24122/VulnHunt) : Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more. Check [Features](https://github.com/utkarsh24122/VulnHunt#features-)
