@@ -47,6 +47,16 @@ I have written a few writeups of some of the intersting vulnerabiities that I ha
 
 (It only contains few of the interesting ones so far )
 
+Contents:
+1. Finding Security Vulnerabilities in Android Applications
+2. API Endpoints lead to Sensitive Information Disclosure and PII leakage of Employees
+3. Subdomain Takeover 
+4. Cross Site Scripting
+5. 2FA bypass - Bruteforce Protection Bypass & Response Manipulation
+6. Account Highjack
+7. OAuth Misconfiguration
+8. Open Redirect - Manual & Automated detection
+
 ### <h2> Social Links 📞 </h2> 
 
 
