@@ -6,11 +6,12 @@ Hi There 👋
 
 - 🕸 Web Application Penetration Tester
 - 📱 Android & iOS Application Security
-- ☁ Learning Cloud & API security
+- ☁ Cloud & API security
 - 💻 NCIIPC Contributor
 - 🐱‍👤 Bug Bounty Hunter
-- 🐼 Valid (P2) Bug Submissions in PUBG, Mastercard and many more
+- 🐼 High Severity Bug Submissions in PUBG, Mastercard and many more
 - 😋 Pentesting Automation tools (Bash and Python)
+- 📑 Resume: [View](https://drive.google.com/file/d/1oMHQ-jONea67zxD1hAsI6c9WLQjsrNUR/view?usp=sharing) | [Download](https://github.com/utkarsh24122/utkarsh24122/releases/download/1/UtkarshSharma_Resume.pdf)
 
 
 ### <h2> Languages ⌨ </h2> 
