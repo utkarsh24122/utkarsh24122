@@ -11,7 +11,7 @@ Hi There 👋
 - 🐱‍👤 Bug Bounty Hunter
 - 🐼 High Severity Bug Submissions in PUBG, Mastercard and many more
 - 😋 Pentesting Automation tools (Bash and Python)
-- 📑 Resume: [View](https://drive.google.com/file/d/1l0BIlvYUTC-TmQdBv-fF4E3gL5inQD1g/view?usp=sharing) | [Download](https://github.com/utkarsh24122/utkarsh24122/releases/download/1/UtkarshSharma_Resume.pdf)
+- 📑 Resume: [View](https://drive.google.com/file/d/1l0BIlvYUTC-TmQdBv-fF4E3gL5inQD1g/view?usp=sharing) | [Download](https://github.com/utkarsh24122/utkarsh24122/releases/download/2/UtkarshSharma_Resume.pdf)
 
 
 ### <h2> Languages ⌨ </h2> 
