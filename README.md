@@ -38,6 +38,7 @@ Hi There 👋
 - [Shufti](https://github.com/utkarsh24122/Shufti) : Latest Recon Workflow Framework. NOT "Just another recon tool" . Check [Features](https://github.com/utkarsh24122/Shufti#features)
 - [get-api](https://github.com/utkarsh24122/get-api) : Enumerate API Endpoints of multiple targets for further exploitation. Check [Screenshots](https://github.com/utkarsh24122/get-api#screenshots-)
 - [s3extractor](https://github.com/utkarsh24122/s3extractor) : Finds s3 buckets of a target and its subdomains and checks s3 bucket permissions through aws cli.
+- [get-GraphQL](https://github.com/utkarsh24122/get-GraphQL) Enumerate GET-based GraphQL endpoints of multiple targets for further exploitation.
 - [All Projects](https://github.com/utkarsh24122?tab=repositories)
 
 ### <h2> Blog website 🌐</h2> 
