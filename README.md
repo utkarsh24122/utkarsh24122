@@ -33,7 +33,7 @@ Hi There 👋
 
 - [VulnHunt](https://github.com/utkarsh24122/VulnHunt) : Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more. Check [Features](https://github.com/utkarsh24122/VulnHunt#features-)
 - [apknuke](https://github.com/utkarsh24122/apknuke) : Find vulnerabilities in Android Applications : Static Analysis : Template based Scanning. Check [Features](https://github.com/utkarsh24122/apknuke#features-)
-- [JSEnum](https://github.com/utkarsh24122/JSEnum) : Find Secrets, leaks, XSS & more in JavaScript files : Enumerate JavaScript Files of a target & Subdomains. Check [Features](https://github.com/utkarsh24122/JSEnum#features)
+- [JSEnum](https://github.com/utkarsh24122/JSEnum) : Find Secrets, leaks, XSS & more in JavaScript files : Enumerate JS Files of a target & Subdomains. Check [Features](https://github.com/utkarsh24122/JSEnum#features)
 - [ApkAnalyzer](https://github.com/utkarsh24122/ApkAnalyzer) : Python script to find Vulnerabilities in Android Applications.
 - [Shufti](https://github.com/utkarsh24122/Shufti) : Latest Recon Workflow Framework. NOT "Just another recon tool" . Check [Features](https://github.com/utkarsh24122/Shufti#features)
 - [get-api](https://github.com/utkarsh24122/get-api) : Enumerate API Endpoints of multiple targets for further exploitation. Check [Screenshots](https://github.com/utkarsh24122/get-api#screenshots-)
