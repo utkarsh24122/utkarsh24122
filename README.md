@@ -77,6 +77,4 @@ Contents:
 
 <br/><br/>
 <br/><br/>
-<p align="left">
-  <img  src="https://user-images.githubusercontent.com/54320208/119717964-9f269b00-be84-11eb-8c12-35f96a09eb77.gif">
-<p>*Me all day 👆😂</p>
+
